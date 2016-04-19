@@ -18,3 +18,7 @@ re-learning C with K&R
 * Control flow
   * `if..else if..else`
   * `switch { case 0: case 1: ... break; case 2: ... break; default: ... break; }`
+* Libraries
+ * `ctype` (`isdigit(), isspace()`)
+ * `stdio` (`getchar()`)
+ * `string` (`strlen()`)
