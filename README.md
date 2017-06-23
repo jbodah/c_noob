@@ -30,3 +30,5 @@ re-learning C with K&R
 * Initialization
   * `int days[] = { 31, 45, 66 }`
   * `char pattern[] = "ould";
+* `extern` will not reserve storage when declared while a normal declaration will
+* `static` is private to source file
